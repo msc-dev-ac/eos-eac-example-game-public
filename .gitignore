@@ -1,0 +1,7 @@
+.eos_sdk
+.cache
+build
+dist/MyEOSGame
+SDK/Tools/*.exe
+SDK/Tools/*.zip
+SDK/Tools/FileDecryptionTool

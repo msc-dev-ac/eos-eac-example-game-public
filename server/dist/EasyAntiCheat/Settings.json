@@ -1,0 +1,11 @@
+{
+	"title"											: "Test Game",
+	"executable"									: "MyEOSGameServer",
+	"productid"										: "PRODUCT_ID_HERE",
+	"sandboxid"										: "SANDBOX_ID_HERE",
+	"deploymentid"									: "DEPLOYMENT_ID_HERE",
+	"requested_splash"								: "EasyAntiCheat/SplashScreen.png",
+	"wait_for_game_process_exit"					: "true",
+	"hide_bootstrapper"								: "true",
+	"hide_gui"										: "true"
+}
